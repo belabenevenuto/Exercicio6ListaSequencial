@@ -1,4 +1,4 @@
 # Exercicio6ListaSequencial
-Repositório destinado a solução do exercício 6 da lista sequencial de java
+Faça um Programa que peça o raio de um círculo, calcule e mostre sua área.
 
 RA: 322125103 - ISABELA GONÇALVES CARDOSO
